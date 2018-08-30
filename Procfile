@@ -1,0 +1,1 @@
+web: python ./Skilaverkefni1.py $PORT
